@@ -40,8 +40,8 @@
 | 날짜 | 내용 |
 | :---: | :---: |
 | 12.19 ~ 12.25 | BoostCamp 강의 수강 및 Segmentation 이론 학습|
-| 12.26 ~ 01.01 | Data EDA & Model Experiment |
-| 01.02 ~ 01.05 | HyperParameter Tuning & model Ensemble |
+| 12.26 ~ 01.01 | Data EDA 및 Model Experiment |
+| 01.02 ~ 01.05 | Model Tuning 및 Ensemble |
 
 
 ## Command
