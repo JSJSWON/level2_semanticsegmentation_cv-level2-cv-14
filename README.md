@@ -1,4 +1,4 @@
-# BoostCamp AI Tech level 2 재활용 품목 분류를 위한 Semantic Segmentation 대회-CV14조
+# BoostCamp AI Tech level 2 재활용 품목 분류를 위한 Semantic Segmentation-CV14조
 
 ## Member🔥
 | [김지훈](https://github.com/kzh3010) | [원준식](https://github.com/JSJSWON) | [송영섭](https://github.com/gih0109) | [허건혁](https://github.com/GeonHyeock) | [홍주영](https://github.com/archemist-hong) |
